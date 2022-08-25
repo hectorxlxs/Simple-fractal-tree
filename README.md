@@ -6,4 +6,7 @@ You can try it from this link: [Simple Fractal Tree](https://editor.p5js.org/hec
 
 Modifying the different parameters you can create multiple type of trees.
 Here are some examples:
-![]()
+![test](media/fractal_tree_example_1.png)
+![test](media/fractal_tree_example_2.png)
+![test](media/fractal_tree_example_3.png)
+![test](media/fractal_tree_example_4.png)
